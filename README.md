@@ -183,11 +183,43 @@ Chains and their outputs:
 
 ## 🖼️ Screenshots
 
-> Add screenshots to `assets/` and reference them here, e.g.:
->
-> `![Resume Analysis](assets/resume_analysis.png)`
+### 🏠 Home Page
+
+The main interface where users can upload their resume and provide a job description.
+
+![Home Page](assets/home.png)
 
 ---
+
+### 📄 Resume Analysis
+
+AI-generated resume summary, strengths, weaknesses, missing skills, grammar suggestions, formatting feedback, and career recommendations.
+
+![Resume Analysis](assets/resume-analysis.png)
+
+---
+
+### 📊 ATS Score
+
+Detailed ATS compatibility score including keyword matching, formatting score, section analysis, issues detected, and improvement recommendations.
+
+![ATS Score](assets/ats-score.png)
+
+---
+
+### 🎯 Job Match Score
+
+Compares the uploaded resume with the job description and provides an overall match percentage, matched skills, missing skills, and recommendations.
+
+![Job Match Score](assets/job-match.png)
+
+---
+
+### 💼 Interview Questions
+
+Automatically generates personalized technical, HR, and project-based interview questions based on the uploaded resume and job description.
+
+![Interview Questions](assets/interview-questions.png)
 
 ## ☁️ Deployment
 

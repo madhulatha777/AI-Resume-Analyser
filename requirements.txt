@@ -1,0 +1,27 @@
+# Core app
+streamlit>=1.36.0
+
+# LangChain + Groq
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-groq>=0.1.6
+
+# PDF parsing
+PyPDF2>=3.0.1
+pdfplumber>=0.11.0
+
+# PDF report generation
+fpdf2>=2.7.9
+
+# Data / validation
+pydantic>=2.7.0
+pandas>=2.2.0
+
+# Config
+python-dotenv>=1.0.1
+
+# Optional (future semantic search extensions)
+faiss-cpu>=1.8.0
+
+# Testing
+pytest>=8.2.0

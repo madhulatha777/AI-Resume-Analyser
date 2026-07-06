@@ -1,0 +1,29 @@
+Senior Backend Engineer (Python)
+
+About the Role
+We are looking for a Senior Backend Engineer to design and scale our cloud
+platform. You will own services end to end, from API design to deployment on
+AWS, and mentor junior engineers.
+
+Responsibilities
+- Design, build, and maintain scalable REST and gRPC APIs in Python.
+- Deploy and operate services on AWS using Docker and Kubernetes.
+- Build CI/CD pipelines and improve observability.
+- Optimize PostgreSQL queries and data models for performance.
+- Mentor junior engineers and lead code reviews.
+
+Required Qualifications
+- 5+ years of professional Python experience.
+- Strong experience with FastAPI or Django REST Framework.
+- Hands-on experience with AWS (ECS/EKS, S3, RDS, Lambda).
+- Proficiency with Docker and Kubernetes.
+- Solid understanding of PostgreSQL and database design.
+- Experience with CI/CD (GitHub Actions, Jenkins) and infrastructure as code.
+
+Nice to Have
+- Experience with Kafka or other message queues.
+- Familiarity with Terraform.
+- Knowledge of monitoring tools (Prometheus, Grafana, Datadog).
+
+Education
+- Bachelor's degree in Computer Science or equivalent experience.

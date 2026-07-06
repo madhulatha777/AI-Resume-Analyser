@@ -1,0 +1,31 @@
+JANE DOE
+Software Engineer
+Email: jane.doe@example.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/janedoe | GitHub: github.com/janedoe
+Location: Austin, TX
+
+SUMMARY
+Software Engineer with 4 years of experience building and shipping web
+applications. Comfortable across the stack with a focus on Python backends and
+React frontends. Worked on web app and helped the team.
+
+SKILLS
+Python, Flask, Django, JavaScript, React, PostgreSQL, Git, Docker, REST APIs,
+Unit Testing, Linux
+
+EXPERIENCE
+Software Engineer — Acme Corp (2021 - Present)
+- Worked on web app for internal reporting.
+- Built REST APIs in Flask used by 3 internal teams.
+- Helped migrate a legacy service to Docker containers.
+
+Junior Developer — Startup Inc (2019 - 2021)
+- Fixed bugs and added features to the customer portal.
+- Wrote unit tests increasing coverage.
+
+PROJECTS
+Personal Finance Tracker
+- A web app to track expenses built with Flask and React.
+
+EDUCATION
+B.S. in Computer Science — University of Texas (2019)

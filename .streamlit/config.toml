@@ -1,0 +1,20 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#667eea"
+backgroundColor = background: linear-gradient(
+135deg,
+#06b6d4 0%,
+#3b82f6 50%,
+#8b5cf6 100%
+);
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#1a1a2e"
+font = "sans serif"
